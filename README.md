@@ -1,6 +1,8 @@
  <div align="center">
-    <h1> Welcome to my GitHub! </h1> 
-    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
+    <h1> 
+      Welcome to my GitHub! 
+      <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
+    </h1> 
  </div>
 
 
