@@ -2,7 +2,7 @@
     <h1> 
       🍇
       Welcome to my GitHub! 
-      <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
+      <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
     </h1> 
     <p> I'm a Full Stack JavaScript developer who's passionate about contributing to teams solving human-centric problems .When I’m not coding, you can find me in the kitchen tackling a new recipe, puzzling through a board game, or playing with my Pomeranian Nelly.</p>
 
